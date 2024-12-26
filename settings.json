@@ -1,0 +1,54 @@
+{
+    "python.pythonPath": "C:\\Users\\kimde\\AppData\\Local\\Microsoft\\WindowsApps\\python3.8.exe",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "cmake.configureOnOpen": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\kimde\\AppData\\Local\\Microsoft\\WindowsApps\\python3.8.exe",
+    "grunt.autoDetect": "on",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Default Light+",
+    "workbench.colorCustomizations": {
+    "activityBar.background": "#162e1a", // left end
+        "breadcrumb.background": "#d0e0cf", // top path
+        "button.background": "#162e1a",
+        "editor.background": "#d7e4d6",
+        "editor.lineHighlightBackground": "#b4e6b0",
+        "editor.selectionBackground": "#71d778",
+        "editor.selectionHighlightBackground": "#6bb681",
+        "editorGroupHeader.noTabsBackground": "#c1d1c2",
+        "editorGroupHeader.tabsBackground": "#c1d1c2",
+        "editorGutter.background": "#d0e0cf",
+        "editorWidget.background": "#c1d1c2", // cmd + p, editor hover
+        "input.background": "#d7e4d6",
+        "list.activeSelectionBackground": "#d0e0cf",
+        "list.activeSelectionForeground": "#162e1a",
+        "list.focusOutline": "#d0e0cf",
+        "list.hoverBackground": "#d0e0cf",
+        "list.inactiveSelectionBackground": "#d0e0cf",
+        "list.inactiveSelectionForeground": "#162e1a",
+        "minimap.background": "#d0e0cf", // right end
+        "peekViewEditor.background": "#d0e0cf",
+        "peekViewResult.background": "#c1d1c2",
+        "sideBar.background": "#c1d1c2",
+        "statusBar.background": "#3f833f",
+        "tab.activeBackground": "#d0e0cf",
+        "tab.border": "#c1d1c2",
+        "tab.inactiveBackground": "#c1d1c2",
+        "terminal.background": "#d7e4d6"
+    }
+}
